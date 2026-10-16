@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37614.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurityBotConsole", "CyberSecurityBotConsole.csproj", "{007B46B8-CBEF-4F0C-A340-049084BA67AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurityBotApp", "..\CyberSecurityBotApp\CyberSecurityBotApp.csproj", "{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007B46B8-CBEF-4F0C-A340-049084BA67AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007B46B8-CBEF-4F0C-A340-049084BA67AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007B46B8-CBEF-4F0C-A340-049084BA67AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007B46B8-CBEF-4F0C-A340-049084BA67AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9279D2BB-8660-4EBC-9FD0-3CB50AFBAECD}
+	EndGlobalSection
+EndGlobal

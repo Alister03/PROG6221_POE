@@ -1,0 +1,19 @@
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\bin\Debug\net8.0\Prog6221 A1.exe
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\bin\Debug\net8.0\Prog6221 A1.deps.json
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\bin\Debug\net8.0\Prog6221 A1.runtimeconfig.json
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\bin\Debug\net8.0\Prog6221 A1.dll
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\bin\Debug\net8.0\Prog6221 A1.pdb
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\obj\Debug\net8.0\Prog6221 A1.csproj.AssemblyReference.cache
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\obj\Debug\net8.0\Prog6221 A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\obj\Debug\net8.0\Prog6221 A1.AssemblyInfoInputs.cache
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\obj\Debug\net8.0\Prog6221 A1.AssemblyInfo.cs
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\obj\Debug\net8.0\Prog6221 A1.csproj.CoreCompileInputs.cache
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\obj\Debug\net8.0\Prog6221.6A2820D3.Up2Date
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\obj\Debug\net8.0\Prog6221 A1.dll
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\obj\Debug\net8.0\refint\Prog6221 A1.dll
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\obj\Debug\net8.0\Prog6221 A1.pdb
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\obj\Debug\net8.0\Prog6221 A1.genruntimeconfig.cache
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\obj\Debug\net8.0\ref\Prog6221 A1.dll
+C:\Users\Alister Dhunraj\Documents\ROSEBANK\Prog6221 A1\bin\Debug\net8.0\greeting.wav

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "McZ1eRFclQQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\CyberSecurityBotApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alister Dhunraj\\.nuget\\packages\\system.windows.extensions\\10.0.13\\system.windows.extensions.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
