@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\Prog6221 A1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{007B46B8-CBEF-4F0C-A340-049084BA67AB}|CyberSecurityBotConsole.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\prog6221 a1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{007B46B8-CBEF-4F0C-A340-049084BA67AB}|CyberSecurityBotConsole.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}|..\\CyberSecurityBotApp\\CyberSecurityBotApp.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\cybersecuritybotapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}|..\\CyberSecurityBotApp\\CyberSecurityBotApp.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\cybersecuritybotapp\\chatboxengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}|..\\CyberSecurityBotApp\\CyberSecurityBotApp.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\cybersecuritybotapp\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}|..\\CyberSecurityBotApp\\CyberSecurityBotApp.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\cybersecuritybotapp\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}|..\\CyberSecurityBotApp\\CyberSecurityBotApp.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\cybersecuritybotapp\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}|..\\CyberSecurityBotApp\\CyberSecurityBotApp.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\cybersecuritybotapp\\nlpprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}|..\\CyberSecurityBotApp\\CyberSecurityBotApp.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\cybersecuritybotapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}|..\\CyberSecurityBotApp\\CyberSecurityBotApp.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\cybersecuritybotapp\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}|..\\CyberSecurityBotApp\\CyberSecurityBotApp.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\cybersecuritybotapp\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007B46B8-CBEF-4F0C-A340-049084BA67AB}|CyberSecurityBotConsole.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\prog6221 a1\\databasesetup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{007B46B8-CBEF-4F0C-A340-049084BA67AB}|CyberSecurityBotConsole.csproj|solutionrelative:databasesetup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7C57F0-0623-4BBC-BEEC-7ECE9B0FD466}|..\\CyberSecurityBotApp\\CyberSecurityBotApp.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\cybersecuritybotapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007B46B8-CBEF-4F0C-A340-049084BA67AB}|CyberSecurityBotConsole.csproj|c:\\users\\alister dhunraj\\documents\\rosebank\\prog6221 a1\\databasesetup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{007B46B8-CBEF-4F0C-A340-049084BA67AB}|CyberSecurityBotConsole.csproj|solutionrelative:databasesetup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\Prog6221 A1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\Prog6221 A1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-13T18:48:48.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\CyberSecurityBotApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\MainWindow.xaml",
+              "RelativeToolTip": "..\\CyberSecurityBotApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-13T18:35:50.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NlpProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\NlpProcessor.cs",
+              "RelativeDocumentMoniker": "..\\CyberSecurityBotApp\\NlpProcessor.cs",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\NlpProcessor.cs",
+              "RelativeToolTip": "..\\CyberSecurityBotApp\\NlpProcessor.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:29:14.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\QuizManager.cs",
+              "RelativeDocumentMoniker": "..\\CyberSecurityBotApp\\QuizManager.cs",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\QuizManager.cs",
+              "RelativeToolTip": "..\\CyberSecurityBotApp\\QuizManager.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:28:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "..\\CyberSecurityBotApp\\QuizQuestion.cs",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\QuizQuestion.cs",
+              "RelativeToolTip": "..\\CyberSecurityBotApp\\QuizQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:27:41.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "..\\CyberSecurityBotApp\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\ActivityLog.cs",
+              "RelativeToolTip": "..\\CyberSecurityBotApp\\ActivityLog.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:27:01.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatboxEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\ChatboxEngine.cs",
+              "RelativeDocumentMoniker": "..\\CyberSecurityBotApp\\ChatboxEngine.cs",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\ChatboxEngine.cs",
+              "RelativeToolTip": "..\\CyberSecurityBotApp\\ChatboxEngine.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAkwOUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T17:50:35.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\CyberSecurityBotApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\CyberSecurityBotApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAkwGQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T17:45:21.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "..\\CyberSecurityBotApp\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\TaskRepository.cs",
+              "RelativeToolTip": "..\\CyberSecurityBotApp\\TaskRepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv1UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:22:00.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\TaskItem.cs",
+              "RelativeDocumentMoniker": "..\\CyberSecurityBotApp\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\TaskItem.cs",
+              "RelativeToolTip": "..\\CyberSecurityBotApp\\TaskItem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T18:18:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\Database.cs",
+              "RelativeDocumentMoniker": "..\\CyberSecurityBotApp\\Database.cs",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\CyberSecurityBotApp\\Database.cs",
+              "RelativeToolTip": "..\\CyberSecurityBotApp\\Database.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv1kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T17:43:07.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseSetup.sql",
+              "DocumentMoniker": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\Prog6221 A1\\DatabaseSetup.sql",
+              "RelativeDocumentMoniker": "DatabaseSetup.sql",
+              "ToolTip": "C:\\Users\\Alister Dhunraj\\Documents\\ROSEBANK\\Prog6221 A1\\DatabaseSetup.sql",
+              "RelativeToolTip": "DatabaseSetup.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-13T17:19:23.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
