@@ -5,8 +5,13 @@ What was changed:
 2. Delegates- a custom delegate type called BotMessageHandler(string message) was introduced for decoupling (this is the core learning outcome). The delegate defines the "shape" of a method that receives the bot messages. The engine exposes an event of this type called OnBotMessage and the GUI subscribes its AppendBotMessage method to it. The engine raises the messages and the GUI decides how they will be displayed. The two layers never reference each other directly.
 
 Part3 completion what was changed:
+
 1.MySQL database integration added which connects cybersecurity to store tasks
+
 2.GUI task panel added in mainwindow.xaml with buttons for completion, delete and refresh
+
 3.Code for questionnaire added with questions, feedback as well, scores tracking as well as buttons
+
 4.Nlp processor added for detection of regardless phrasing.
+
 5.Chat command to retrieve 5 last actions
